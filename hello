@@ -1,0 +1,9 @@
+def hello():
+	print("hello world")
+	if(x == "Arun"):
+		print("Awesome")
+	else:
+		print("Loser")
+
+x="Arun"
+hello()
